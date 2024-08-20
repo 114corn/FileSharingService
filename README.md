@@ -1,1 +1,1 @@
-# FileSharingService
+The FileSharingService project is a Flask-based application designed to facilitate the sharing of files between users. Acting as the central hub, this repository contains the core functionality for initializing the application, configuring various routes for file upload and download, and handling the server's start-up process. This project aims to provide a straightforward and efficient way for users to share files, with an emphasis on simplicity and ease of use.
